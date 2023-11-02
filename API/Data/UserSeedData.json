@@ -1,0 +1,154 @@
+[
+    {
+        "UserName": "ElenaJohnson",
+        "Gender": "female",
+        "DateOfBirth": "1987-09-14",
+        "KnownAs": "Elena",
+        "Created": "2020-04-25",
+        "LastActive": "2020-07-12",
+        "Introduction": "Hola, soy Elena. Me encanta la naturaleza y disfruto explorar nuevos lugares. Siempre estoy buscando aventuras emocionantes.",
+        "LookingFor": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisi.",
+        "Interests": "Praesent et justo vestibulum, commodo odio id, efficitur nunc.",
+        "City": "Springfield",
+        "Country": "Canada",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/1.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "MarcusBrown",
+        "Gender": "male",
+        "DateOfBirth": "1995-03-22",
+        "KnownAs": "Marcus",
+        "Created": "2019-12-10",
+        "LastActive": "2020-08-05",
+        "Introduction": "¡Hola! Me llamo Marcus y soy un entusiasta de la música. Toco la guitarra y disfruto componiendo mis propias canciones.",
+        "LookingFor": "Fusce tempor velit nec massa tincidunt, id luctus ipsum fringilla.",
+        "Interests": "Curabitur facilisis justo in dapibus consequat.",
+        "City": "Manchester",
+        "Country": "United Kingdom",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/men/2.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "SophiaAdams",
+        "Gender": "female",
+        "DateOfBirth": "1980-11-05",
+        "KnownAs": "Sophia",
+        "Created": "2020-02-18",
+        "LastActive": "2020-09-20",
+        "Introduction": "Hola, soy Sophia. Disfruto mucho cocinando y probando nuevas recetas. Siempre me puedes encontrar en la cocina.",
+        "LookingFor": "Praesent et justo at est consectetur volutpat eget vitae nisl.",
+        "Interests": "Ut interdum sapien a aliquam eleifend.",
+        "City": "Los Angeles",
+        "Country": "United States",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/3.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "NathanGarcia",
+        "Gender": "male",
+        "DateOfBirth": "1988-07-30",
+        "KnownAs": "Nathan",
+        "Created": "2019-10-01",
+        "LastActive": "2020-08-30",
+        "Introduction": "¡Hola! Soy Nathan. Me apasiona el mundo de la tecnología y disfruto aprendiendo sobre nuevas innovaciones.",
+        "LookingFor": "Integer nec enim non velit malesuada vehicula.",
+        "Interests": "Phasellus rutrum urna eget libero aliquam, eu commodo eros cursus.",
+        "City": "Sydney",
+        "Country": "Australia",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/men/4.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "LaraSmith",
+        "Gender": "female",
+        "DateOfBirth": "1990-05-18",
+        "KnownAs": "Lara",
+        "Created": "2019-11-15",
+        "LastActive": "2020-09-28",
+        "Introduction": "¡Hola a todos! Soy Lara. Me encanta el arte en todas sus formas. Pinto, dibujo y también disfruto visitando museos y galerías de arte.",
+        "LookingFor": "Fusce tempor velit nec massa tincidunt, id luctus ipsum fringilla.",
+        "Interests": "Curabitur facilisis justo in dapibus consequat.",
+        "City": "Paris",
+        "Country": "France",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/5.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "LucasThompson",
+        "Gender": "male",
+        "DateOfBirth": "1985-12-09",
+        "KnownAs": "Lucas",
+        "Created": "2020-01-20",
+        "LastActive": "2020-09-15",
+        "Introduction": "Hola, soy Lucas. Me encanta el deporte y paso la mayor parte de mi tiempo jugando fútbol o practicando senderismo.",
+        "LookingFor": "Praesent et justo at est consectetur volutpat eget vitae nisl.",
+        "Interests": "Ut interdum sapien a aliquam eleifend.",
+        "City": "Berlin",
+        "Country": "Germany",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/men/6.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "OliviaLee",
+        "Gender": "female",
+        "DateOfBirth": "1978-08-27",
+        "KnownAs": "Olivia",
+        "Created": "2019-09-05",
+        "LastActive": "2020-10-02",
+        "Introduction": "¡Hola a todos! Soy Olivia. Disfruto mucho la jardinería y pasar tiempo al aire libre en contacto con la naturaleza.",
+        "LookingFor": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "Interests": "Praesent et justo vestibulum, commodo odio id, efficitur nunc.",
+        "City": "Vancouver",
+        "Country": "Canada",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/7.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "LiamWilson",
+        "Gender": "male",
+        "DateOfBirth": "1982-04-13",
+        "KnownAs": "Liam",
+        "Created": "2020-03-28",
+        "LastActive": "2020-10-05",
+        "Introduction": "¡Hola! Soy Liam. Soy un entusiasta de los viajes y disfruto explorando diferentes culturas y lugares en todo el mundo.",
+        "LookingFor": "Integer nec enim non velit malesuada vehicula.",
+        "Interests": "Phasellus rutrum urna eget libero aliquam, eu commodo eros cursus.",
+        "City": "Tokyo",
+        "Country": "Japan",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/men/8.jpg",
+                "IsMain": true
+            }
+        ]
+    }
+]
